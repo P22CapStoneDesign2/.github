@@ -13,4 +13,5 @@ ERD<br>
 		P : 아쉬운 점<br>
 		T : 트러블슈팅에서 미해결된 것들 또는 Develop한다면 시도하고 싶은 것들<br><br>
 
-<img width="2400" height="990" alt="edu_hub_rounded" src="https://github.com/user-attachments/assets/68ca8f07-e2f0-4aec-b243-f1e2ef1f70af" />
+<img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" />
+

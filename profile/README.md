@@ -25,7 +25,7 @@ ERD<br>
 기획 배경
 ## 🌟팀원 소개🌟<br>
 
-### 정세영- Frontend, Database
+### 정세영(Leader)- Frontend, Database
 
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
@@ -55,8 +55,8 @@ ERD<br>
 ## 🌟배포 로드맵🌟<br>
 (로드맵 이미지)
 ## 🌟회고🌟<br>
-### 정세영- Frontend, Database
-### 윤정수 - Frontend
-### 최민식 - Backend
-### 김지훈 - Backend
+### 정세영
+### 윤정수 
+### 최민식
+### 김지훈
 

@@ -39,11 +39,10 @@ ERD<br>
 
 ### 최민식 - Backend
 
+
+
 ### 김지훈 - Backend
 
-- 크롤러: Jsoup 기반
-- Spring Boot + JPA
-- 데이터베이스: MySQL
-- AI Model : ChatGPT
+
 
 <br><br><br><br>

@@ -1,7 +1,7 @@
 # 학습자료 연계형 통합 퀴즈 운영 시스템 구축 (Edu-Quiz Hub)
 ### 산학협력 Capstone Project<br>
 **notion:**<br><br>
-**작성해야 할 것**<br>
+**=============작성해야 할 것===============**<br>
 서비스 소개<br>
 기획 배경<br>
 기능 소개(영상/gif)<br>
@@ -17,10 +17,15 @@ ERD<br>
 		K : 이 프로젝트를 통해 배우게 된 것<br>
 		P : 아쉬운 점<br>
 		T : 트러블슈팅에서 미해결된 것들 또는 Develop한다면 시도하고 싶은 것들<br><br>
-
-<img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" />
-
-## 🌟팀원 소개🌟
+**====================================**<br><br>
+<img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" /><br>
+## 🌟서비스 소개🌟<br>
+서비스 소개
+## 🌟기획 배경🌟<br>
+기획 배경
+## 🌟기능 소개(영상)🌟<br>
+(영상)
+## 🌟팀원 소개🌟<br>
 
 ### 정세영- Frontend, Database
 
@@ -44,5 +49,14 @@ ERD<br>
 ### 김지훈 - Backend
 
 
-
 <br><br><br><br>
+## 🌟ERD🌟<br>
+(ERD 이미지)
+## 🌟배포 로드맵🌟<br>
+(로드맵 이미지)
+## 🌟회고🌟<br>
+### 정세영- Frontend, Database
+### 윤정수 - Frontend
+### 최민식 - Backend
+### 김지훈 - Backend
+

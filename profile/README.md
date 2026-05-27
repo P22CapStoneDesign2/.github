@@ -1,5 +1,5 @@
-# 안녕하세요!<br>
-**여기 레포지토리의 소개를 작성합시다!**<br>
+# 학습자료 연계형 통합 퀴즈 운영 시스템 구축 (Edu-Quiz Hub)
+### 산학협력 Capstone Project<br>
 **notion:**<br><br>
 **작성해야 할 것**<br>
 서비스 소개<br>
@@ -20,3 +20,30 @@ ERD<br>
 
 <img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" />
 
+## 🌟팀원 소개🌟
+
+### 정세영- Frontend, Database
+
+- **React 기반 프론트엔드**
+  	- 홈 랜딩 화면 구현
+	- 로그인 / 회원가입 화면 구현
+   	- 교안 수강 신청 화면 구현
+   	- pdf 교안 뷰어 화면 구현
+   	- admin 관리자 화면 구현: 학생 교안 수강 신청 승인, 교수 회원가입 신청 승인
+   	  
+- **Supabase(Postgre) 데이터베이스 구축, 서버 관리**
+
+### 윤정수 - Frontend
+
+
+
+### 최민식 - Backend
+
+### 김지훈 - Backend
+
+- 크롤러: Jsoup 기반
+- Spring Boot + JPA
+- 데이터베이스: MySQL
+- AI Model : ChatGPT
+
+<br><br><br><br>

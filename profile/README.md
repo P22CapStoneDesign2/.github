@@ -67,7 +67,8 @@ ERD<br>
 (사진)
 <br><br><br>
 ## 🌟ERD🌟<br>
-(ERD 이미지)
+<img width="3116" height="1749" alt="CapstoneERD" src="https://github.com/user-attachments/assets/3029669f-a558-428c-859e-54d954fe9a5f" />
+
 <br><br><br>
 ## 🌟배포 로드맵🌟<br>
 (로드맵 이미지)

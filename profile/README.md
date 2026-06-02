@@ -18,15 +18,14 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 ## 🌟팀원 소개🌟<br>
 
 ### 😆정세영(Leader) - Frontend, Database
-
+- **Github Organization의 전반적인 관리 및 팀장으로서 프로젝트 총괄**<br><br>
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
 	- 로그인(교수, admin: 아이디, 비밀번호 이용 / 학생: 카카오 로그인) / 회원가입 화면 구현
    	- 학생 강의 수강 신청 화면 구현
    	- pdf 교안 뷰어 화면 구현
    	- admin 관리자 화면 구현: 학생 강의 수강 신청 승인, 교수 회원가입 신청 승인<br><br>
-- **Supabase(Postgre) 데이터베이스 구축, DB 클라우드 서버 관리**<br>
-- **Github Organization의 전반적인 관리 및 팀장으로서 프로젝트 총괄**
+- **Supabase(Postgre) 데이터베이스 구축, DB 클라우드 서버 관리**
 <br><br>
 
 **기술 스택**<br>

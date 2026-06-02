@@ -112,14 +112,18 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 
 <br><br><br>
 ## 🌟간트 차트🌟<br>
-(사진)
-<br><br><br>
+<img width="3307" height="2339" alt="EDU_HUB_WBS_간트차트_제출용_통일색상-1" src="https://github.com/user-attachments/assets/ad9ee963-9b65-48b3-a71f-88214b5b2f38" />
+
+<br><br>
+
 ## 🌟ERD🌟<br>
 <img width="3116" height="1749" alt="CapstoneERD" src="https://github.com/user-attachments/assets/3029669f-a558-428c-859e-54d954fe9a5f" />
 
 <br><br><br>
-## 🌟배포 로드맵🌟<br>
-(로드맵 이미지)
+
+## 🌟로드맵🌟<br>
+<img width="1274" height="715" alt="cicd" src="https://github.com/user-attachments/assets/2b2c7f44-238d-45dd-abdf-172cf4d8bfa2" />
+
 <br><br><br>
 
 <br><br><br>
@@ -163,7 +167,8 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 - 관리자의 강의 수강 신청 승인이나 교수 회원가입 대기 승인 시, 승인이 완료되었다는 메일이 갈 수 있도록 한다
 - 모바일 화면 비율에 맞춰 작동될 수 있게 한다
 
-### 윤정수 
+### 윤정수
+
 ### 최민식
 
 **Keep — 잘된 것**

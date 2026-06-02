@@ -102,6 +102,11 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 ● **관리자(ADMIN)** <br>
 1. 교수 가입 승인 : 교수 권한으로 가입한 사용자를 확인하고 승인 또는 거절한다. 승인 전까지 해당 계정은 교수 기능이 비활성화 상태로 유지된다.<br>
 2. 수강 신청 현황 확인 + 수락 : 전체 강의의 수강 신청 현황을 조회하고 관리한다. 비정상적인 신청 또는 계정 이상 여부를 모니터링한다.
+<br><br><br>
+
+## 🌟로드맵🌟<br>
+<img width="1274" height="715" alt="cicd" src="https://github.com/user-attachments/assets/2b2c7f44-238d-45dd-abdf-172cf4d8bfa2" />
+
 
 <br><br><br>
 ## 🌟간트 차트🌟<br>
@@ -116,11 +121,6 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 
 ## 🌟ERD🌟<br>
 <img width="3116" height="1749" alt="CapstoneERD" src="https://github.com/user-attachments/assets/3029669f-a558-428c-859e-54d954fe9a5f" />
-
-<br><br><br>
-
-## 🌟로드맵🌟<br>
-<img width="1274" height="715" alt="cicd" src="https://github.com/user-attachments/assets/2b2c7f44-238d-45dd-abdf-172cf4d8bfa2" />
 
 <br><br><br>
 

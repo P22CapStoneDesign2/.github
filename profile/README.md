@@ -52,10 +52,7 @@
 
 
 <br><br><br>
-## 🌟와이어프레임🌟<br>
-<img width="24039" height="16167" alt="P22CapstoneDesign" src="https://github.com/user-attachments/assets/dc762f58-8d0b-4058-8da7-57e42d755916" />
 
-<br><br><br>
 ## 🌟기능 소개(영상)🌟<br>
 
 #### 🔥핵심 기능
@@ -99,6 +96,11 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 <img width="3307" height="2339" alt="EDU_HUB_WBS_간트차트_제출용_통일색상-1" src="https://github.com/user-attachments/assets/ad9ee963-9b65-48b3-a71f-88214b5b2f38" />
 
 <br><br>
+
+## 🌟와이어프레임🌟<br>
+<img width="24039" height="16167" alt="P22CapstoneDesign" src="https://github.com/user-attachments/assets/dc762f58-8d0b-4058-8da7-57e42d755916" />
+
+<br><br><br>
 
 ## 🌟ERD🌟<br>
 <img width="3116" height="1749" alt="CapstoneERD" src="https://github.com/user-attachments/assets/3029669f-a558-428c-859e-54d954fe9a5f" />

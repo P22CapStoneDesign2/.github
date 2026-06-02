@@ -22,7 +22,9 @@
    	- 학생 강의 수강 신청 화면 구현
    	- pdf 교안 뷰어 화면 구현
    	- admin 관리자 화면 구현: 학생 강의 수강 신청 승인, 교수 회원가입 신청 승인<br><br>
-- **Supabase(Postgre) 데이터베이스 구축, DB 클라우드 서버 관리**<br><br>
+- **Supabase(Postgre) 데이터베이스 구축, DB 클라우드 서버 관리**
+<br><br>
+
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` `Axios` `PostgreSQL(Supabase)`<br><br>
 

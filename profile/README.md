@@ -75,10 +75,10 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 관리자가 관리자 화면에서, 학생의 교안 및 퀴즈의 접근 권한을 관리할 수 있다.<br><br>
 
 #### 🔥적용 기술
-● 프로젝트 관리: Git, Notion, Figma(wireframe), Gantt chart<br>
-● DB, DB Cloud Server: Supabase(PostgreSQL)<br>
-● FrontEnd: React<br>
-● BackEnd: Java 21, Spring Boot 3, Spring Security JWT (jjwt), Kakao OAuth2 /OIDC, JPA / Hibernate, ArchUnit, JUnit5, Mockito, Flyway<br><br>
+● 프로젝트 관리: `Git`, `Notion`, `Figma(wireframe)`, `Gantt chart`<br>
+● DB, DB Cloud Server: `Supabase(PostgreSQL)`<br>
+● FrontEnd: `React`<br>
+● BackEnd: `Java 21`, `Spring Boot 3`, `Spring Security JWT (jjwt)`, `Kakao OAuth2 /OIDC, JPA / Hibernate`, `ArchUnit`, `JUnit5`, `Mockito`, `Flyway`<br><br>
 
 #### 🔥제작과정
 폭포수 개발 기법에 애자일 개발 방법을 혼합하여 개발을 진행하였다.<br>

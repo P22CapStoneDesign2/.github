@@ -14,7 +14,7 @@
 <br><br><br>
 ## 🌟팀원 소개🌟<br>
 
-### 정세영(Leader)- Frontend, Database
+### 😆정세영(Leader)- Frontend, Database
 
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
@@ -26,18 +26,18 @@
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` `Axios` `PostgreSQL(Supabase)`<br><br>
 
-### 윤정수 - Frontend
+### 😆윤정수 - Frontend
 - **React 기반 프론트엔드**
 	- 학생/교수 메인페이지 UI 설계 및 구현
-  
-    - 교안 조회 및 PDF 뷰어 화면 구현
-      - 객관식·주관식 퀴즈 응시 화면 구현
-      - 퀴즈 결과 및 해설 조회 화면 구현
+	- 교안 조회 및 PDF 뷰어 화면 구현
+  	- 객관식·주관식 퀴즈 응시 화면 구현
+    - 퀴즈 결과 및 해설 조회 화면 구현
 <br><br>
+
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` <br><br>
 
-### 최민식 — Backend
+### 😆최민식 — Backend
 **담당 기능**
 - 프로젝트 초기 도메인 엔티티 및 DB 스키마 설계
 - JWT 인증 필터, Refresh Token Rotation 흐름 구현
@@ -52,10 +52,10 @@
 - 아키텍처 문서화 및 exec-plan 기반 작업 흐름 수립
 
 **기술 스택**  
-`Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)`
+`Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)` <br><br>
 
 
-### 김지훈 - Backend
+### 😆김지훈 - Backend
 
 
 <br><br><br>

@@ -53,7 +53,8 @@
 
 <br><br><br>
 ## 🌟와이어프레임🌟<br>
-(사진)
+<img width="24039" height="16167" alt="P22CapstoneDesign" src="https://github.com/user-attachments/assets/dc762f58-8d0b-4058-8da7-57e42d755916" />
+
 <br><br><br>
 ## 🌟기능 소개(영상)🌟<br>
 

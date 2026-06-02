@@ -18,7 +18,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 ## 🌟팀원 소개🌟<br>
 
 ### 😆정세영(Leader) - Frontend, Database
-- **Github Organization의 전반적인 관리 및 팀장으로서 프로젝트 총괄**<br><br>
+- **팀장으로서 Github Organization의 전반적인 관리 및 프로젝트 총괄**<br><br>
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
 	- 로그인(교수, admin: 아이디, 비밀번호 이용 / 학생: 카카오 로그인) / 회원가입 화면 구현

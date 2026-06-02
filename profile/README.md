@@ -14,7 +14,7 @@
 <br><br><br>
 ## 🌟팀원 소개🌟<br>
 
-### 😆정세영(Leader)- Frontend, Database
+### 😆정세영(Leader) - Frontend, Database
 
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
@@ -39,7 +39,7 @@
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` <br><br>
 
-### 😆최민식 — Backend
+### 😆최민식 - Backend
 **담당 기능**
 - 프로젝트 초기 도메인 엔티티 및 DB 스키마 설계
 - JWT 인증 필터, Refresh Token Rotation 흐름 구현

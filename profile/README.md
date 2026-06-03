@@ -67,8 +67,9 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 Redis 기반 재설정 토큰 관리 및 1분 쿨다운 로직 구현
 퀴즈 도메인 학생 조회 기능 개선 — lessonId 파라미터 지원 추가
 교안 상세 조회 API (/api/materials/{materialId}) PDF URL 응답 추가
+최종 프로그램 시연 영상 제작
 
-기술 스택 'Java 21' 'Spring Boot 3' 'Spring Security' 'JWT (jjwt)' 'JPA / Hibernate' 'Redis' 'JavaMailSender' 'Flyway' 'PostgreSQL (Supabase)'
+기술 스택 Java 21 Spring Boot 3 Spring Security JWT (jjwt) JPA / Hibernate Redis JavaMailSender Flyway PostgreSQL (Supabase)
 <br><br><br>
 
 ## 🌟기능 소개(영상)🌟<br>

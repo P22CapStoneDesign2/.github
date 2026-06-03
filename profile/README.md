@@ -66,68 +66,68 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 <br><br><br>
 
 ## 🌟기능 소개(영상)🌟<br>
-#### 🔥핵심 기능
+### 🔥핵심 기능
 **[교안/퀴즈 관리, 교안 열람, 퀴즈 열람 및 응시 기능]** <br>
 강사(교수)는 교안/퀴즈를 업로드하고 생성할 수 있다. <br>
 학생과 강사는 교안을 열람할 수 있으며, 학생은 자신에게 접근 권한이 있는 퀴즈를 열람하고 응시할 수 있다. <br><br>
 **[접근 권한 관리]** <br>
 관리자가 관리자 화면에서, 학생의 교안 및 퀴즈의 접근 권한을 관리할 수 있다.<br><br>
 
-#### 🔥적용 기술
+### 🔥적용 기술
 ● 프로젝트 관리: `Git`, `Notion`, `Figma(wireframe)`, `Gantt chart`<br>
 ● DB, DB Cloud Server: `Supabase(PostgreSQL)`<br>
 ● FrontEnd: `React`<br>
 ● BackEnd: `Java 21`, `Spring Boot 3`, `Spring Security JWT (jjwt)`, `Kakao OAuth2 /OIDC, JPA / Hibernate`, `ArchUnit`, `JUnit5`, `Mockito`, `Flyway`<br><br>
 
-#### 🔥제작과정
+### 🔥제작과정
 폭포수 개발 기법에 애자일 개발 방법을 혼합하여 개발을 진행하였다.<br>
 github organization의 frontend, backend repository를 나누어, issue를 생성해 개발 진행 상황을 공유하였다. <br>
 매주 google meets를 활용한 회의를 통해, 멘토 피드백을 받고, 각자의 개발 진행 상황과 back-front 개발 명세를 맞추었다.<br><br>
 
-#### 🔥랜딩 페이지
+### 🔥랜딩 페이지
 <img width="800" height="450" alt="Landingpage" src="https://github.com/user-attachments/assets/28a59565-7d38-4916-beab-f38bfe56e84b" />
 
 <br>
 
-#### 🔥사용 흐름
-#### 👉학생(STUDENT) <br>
+### 🔥사용 흐름
+
+### 👉학생(STUDENT) <br>
 **회원가입 및 로그인** : 카카오 소셜 로그인으로 인증한다. 가입 이력이 없을 시 카카오 회원가입을 하게 되고, 최초 1회 닉네임을 설정하게 된다.<br>
 <img width="800" height="450" alt="stud_signup" src="https://github.com/user-attachments/assets/f1b40000-0bc8-47ee-8ccd-99459d98d15e" />
-<br>
+<br><br>
 
 **강의 수강신청** : 개설된 강의 목록을 조회하고 원하는 강의에 수강 신청한다. 신청은 관리자의 수락 전까지 대기 상태로 유지된다.<br>
 <img width="800" height="450" alt="stud_set" src="https://github.com/user-attachments/assets/9aff5bc9-a85f-4678-a0bb-ffcdec038760" />
-
-<br>
+<br><br>
 
 **교안 PDF 열람** : 수강 승인된 강의에 한해 교수가 업로드한 교안 PDF를 뷰어에서 조회할 수 있다. 미승인 강의의 교안은 접근이 차단된다.<br>
 <img width="800" height="450" alt="stud_pdf" src="https://github.com/user-attachments/assets/ac9cd0cf-8bd5-4602-ba24-fda0b11d772b" />
-
-<br>
+<br><br>
 
 **퀴즈 풀기** : 수강 중인 강의에 연결된 퀴즈를 풀 수 있다. 오답 발생 시 해당 문제와 연결된 교안 참조 자료가 함께 제공되어 즉각적인 보완 학습이 가능하다.<br>
 <img width="800" height="450" alt="stud_quiz" src="https://github.com/user-attachments/assets/d38f07cd-23d1-4f0b-9976-72fb30e6c697" />
 
-<br><br>
+<br><br><br>
 
-#### 👉교수(PROFESSOR) <br>
+### 👉교수(PROFESSOR) <br>
 **회원가입** : 메일 인증을 통해 본인인증 후 회원가입을 할 수 있다. 회원가입 후 관리자의 승인을 받아야 교수 기능이 활성화된다. 승인 전에는 강의 개설 등 교수 전용 기능이 제한된다.<br>
 <img width="800" height="450" alt="Signup" src="https://github.com/user-attachments/assets/99b7aef6-3a03-4e68-a048-fa15b2ad2cc2" />
-<br>
+<br><br>
 
 **강의 개설** : 강의명, 설명 등 정보를 입력해 강의를 개설한다. 개설된 강의는 학생 수강 신청 대상 목록에 노출된다.<br>
 **교안 PDF 업로드** : 강의별로 교안 PDF 파일을 업로드한다. 본인이 개설한 강의에만 업로드 권한이 부여되며, 파일 형식 및 용량 제한이 적용된다.<br>
 <img width="800" height="450" alt="prof_pdf" src="https://github.com/user-attachments/assets/dc0adbc3-b869-4310-9ec9-988509395bab" />
-<br>
-
-**퀴즈 등록** : 강의에 퀴즈를 등록하고 특정 교안과 연결한다. 오답 시 참조할 교안을 지정함으로써 문제-근거 자료를 유기적으로 연결한다.<br><br>
-<img width="800" height="450" alt="prof_quiz" src="https://github.com/user-attachments/assets/8dea1ada-d97f-4bca-b1c0-d2731be30b7f" />
 <br><br>
 
-#### 👉관리자(ADMIN) <br>
+**퀴즈 등록** : 강의에 퀴즈를 등록하고 특정 교안과 연결한다. 오답 시 참조할 교안을 지정함으로써 문제-근거 자료를 유기적으로 연결한다.<br>
+<img width="800" height="450" alt="prof_quiz" src="https://github.com/user-attachments/assets/8dea1ada-d97f-4bca-b1c0-d2731be30b7f" />
+
+<br><br><br>
+
+### 👉관리자(ADMIN) <br>
 **교수 가입 승인** : 교수 권한으로 가입한 사용자를 확인하고 승인 또는 거절한다. 승인 전까지 해당 계정은 교수 기능이 비활성화 상태로 유지된다.<br>
 <img width="800" height="450" alt="P-1" src="https://github.com/user-attachments/assets/cc300b2e-022b-4842-aec2-5068a79b1a8d" />
-<br>
+<br><br>
 
 **수강 신청 현황 확인 + 수락** : 전체 강의의 수강 신청 현황을 조회하고 관리한다. 비정상적인 신청 또는 계정 이상 여부를 모니터링한다.
 <img width="800" height="450" alt="admin_2" src="https://github.com/user-attachments/assets/6228e323-9ff7-4e9d-8200-612561aa0ca4" />

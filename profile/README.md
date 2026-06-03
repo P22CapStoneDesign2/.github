@@ -17,7 +17,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 <br><br><br>
 ## 🌟팀원 소개🌟<br>
 
-### 😆정세영 [@Crispylux](https://github.com/Crispylux)(Leader) - Frontend, Database
+### 😆정세영 [@Crispylux](https://github.com/Crispylux) (Leader) - Frontend, Database
 - **팀장으로서 Github Organization의 전반적인 관리 및 프로젝트 총괄**<br><br>
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현

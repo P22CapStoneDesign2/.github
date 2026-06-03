@@ -130,7 +130,7 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 <br><br>
 
 **수강 신청 현황 확인 + 수락** : 전체 강의의 수강 신청 현황을 조회하고 관리한다. 비정상적인 신청 또는 계정 이상 여부를 모니터링한다.
-<img width="800" height="450" alt="admin_2" src="https://github.com/user-attachments/assets/6228e323-9ff7-4e9d-8200-612561aa0ca4" />
+<img width="800" height="450" alt="admin_2" src="https://github.com/user-attachments/assets/2fdea747-6931-4d6d-9614-1b0f4c9e4051" />
 
 
 <br><br><br>

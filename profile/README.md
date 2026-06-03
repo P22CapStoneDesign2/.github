@@ -1,4 +1,3 @@
-<img width="800" height="450" alt="P-1" src="https://github.com/user-attachments/assets/ee42d185-6a61-4b1b-b4e7-a5c3eca9e2f5" /><img width="800" height="450" alt="Landingpage" src="https://github.com/user-attachments/assets/77ebfd4b-6e68-454b-80e5-536815a32ebe" /># 학습자료 연계형 통합 퀴즈 운영 시스템 구축 (Edu-Quiz Hub)
 ### 산학협력 Capstone Project<br>
 
 <img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" /><br>

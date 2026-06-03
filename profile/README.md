@@ -62,7 +62,13 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 
 
 ### 😆김지훈 [@hooons0228](https://github.com/hooons0228) - Backend
+**담당 기능**
+비밀번호 재설정 기능 구현 (이메일 유효성 검증 → 재설정 메일 발송 → 토큰 검증 → 새 비밀번호 저장 4단계 플로우)
+Redis 기반 재설정 토큰 관리 및 1분 쿨다운 로직 구현
+퀴즈 도메인 학생 조회 기능 개선 — lessonId 파라미터 지원 추가
+교안 상세 조회 API (/api/materials/{materialId}) PDF URL 응답 추가
 
+기술 스택 'Java 21' 'Spring Boot 3' 'Spring Security' 'JWT (jjwt)' 'JPA / Hibernate' 'Redis' 'JavaMailSender' 'Flyway' 'PostgreSQL (Supabase)'
 <br><br><br>
 
 ## 🌟기능 소개(영상)🌟<br>

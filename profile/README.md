@@ -69,9 +69,7 @@ Redis 기반 재설정 토큰 관리 및 1분 쿨다운 로직 구현
 교안 상세 조회 API (/api/materials/{materialId}) PDF URL 응답 추가
 최종 프로그램 시연 영상 제작
 
-기술 스택 Java 21 Spring Boot 3 Spring Security JWT (jjwt) JPA / Hibernate Redis JavaMailSender Flyway PostgreSQL (Supabase)
-`Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)` <br><br>
-<br><br><br>
+기술 스택 Java 21 Spring Boot 3 Spring Security JWT (jjwt) JPA / Hibernate Redis JavaMailSender Flyway PostgreSQL (Supabase)<br><br><br>
 
 ## 🌟기능 소개(영상)🌟<br>
 ### 🔥핵심 기능

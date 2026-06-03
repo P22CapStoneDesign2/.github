@@ -1,8 +1,10 @@
-### 산학협력 Capstone Project<br>
-
+# 학습자료 연계형 통합 퀴즈 운영 시스템 구축 (Edu-Quiz Hub)
+## 산학협력 Capstone Project
+<br>
 <img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" /><br>
+
 ## 🌟프로젝트 소개🌟<br>
-### 본 프로젝트는 학습자료 업로드부터 퀴즈 제작, 다목적 설문 운영 및 관리까지 한 곳에서 처리할 수 있는 통합 시스템인 EDU-HUB 구축을 목표로 한다.
+### 본 프로젝트는 학습자료 업로드부터 퀴즈 제작, 다목적 설문 운영 및 관리까지 한 곳에서 처리할 수 있는 통합 시스템인 'EDU-HUB' 구축을 목표로 한다.
 <br><br><br>
 ## 🌟기획 배경🌟<br>
 현재 교육 현장에서는 강사가 수업에 활용하는 교수 자료(PDF, PPT 등)와 이에 대응하는 퀴즈·평가 도구가 **서로 다른 플랫폼에 분산되어 파편화된 형태로 관리**되고 있다.<br>

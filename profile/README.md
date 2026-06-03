@@ -17,8 +17,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 <br><br><br>
 ## 🌟팀원 소개🌟<br>
 
-### 😆정세영(Leader) - Frontend, Database
-[@Crispylux](https://github.com/Crispylux)<br><br>
+### 😆정세영[@Crispylux](https://github.com/Crispylux)(Leader) - Frontend, Database
 - **팀장으로서 Github Organization의 전반적인 관리 및 프로젝트 총괄**<br><br>
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
@@ -32,8 +31,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` `Axios` `PostgreSQL(Supabase)`<br><br>
 
-### 😆윤정수 - Frontend
-[@jungsu97](https://github.com/jungsu97)<br><br>
+### 😆윤정수[@jungsu97](https://github.com/jungsu97) - Frontend
 - **React 기반 프론트엔드**
 	- 학생/교수 메인페이지 UI 설계 및 구현
 	- 교안 조회 및 PDF 뷰어 화면 구현
@@ -44,8 +42,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` <br><br>
 
-### 😆최민식 - Backend
-[@Kyriepy](https://github.com/Kyriepy)<br><br>
+### 😆최민식[@Kyriepy](https://github.com/Kyriepy) - Backend
 **담당 기능**
 - 프로젝트 초기 도메인 엔티티 및 DB 스키마 설계
 - JWT 인증 필터, Refresh Token Rotation 흐름 구현
@@ -63,8 +60,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 `Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)` <br><br>
 
 
-### 😆김지훈 - Backend
-[@hooons0228](https://github.com/hooons0228)<br><br>
+### 😆김지훈[@hooons0228](https://github.com/hooons0228) - Backend
 
 <br><br><br>
 

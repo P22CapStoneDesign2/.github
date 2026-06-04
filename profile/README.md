@@ -3,10 +3,10 @@
 <br>
 <img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" /><br>
 
-## 🌟프로젝트 소개🌟<br>
+## 🌊프로젝트 소개🌊<br>
 ### 본 프로젝트는 학습자료 업로드부터 퀴즈 제작, 다목적 설문 운영 및 관리까지 한 곳에서 처리할 수 있는 통합 시스템인 'EDU-HUB' 구축을 목표로 한다.
 <br><br><br>
-## 🌟기획 배경🌟<br>
+## 🌊기획 배경🌊<br>
 현재 교육 현장에서는 강사가 수업에 활용하는 교수 자료(PDF, PPT 등)와 이에 대응하는 퀴즈·평가 도구가 **서로 다른 플랫폼에 분산되어 파편화된 형태로 관리**되고 있다.<br>
 강사는 수업 자료를 배포한 뒤 별도의 도구로 문항을 제작하고, 자료와 문제를 일일이 대조하며 구성해야 하므로 불필요한 반복 작업이 발생하고 업무 부담이 가중되는 문제가 있다.<br><br>
 
@@ -16,9 +16,9 @@
 이러한 문제를 해결하고자, **교수 자료 관리·퀴즈 출제·수강 관리를 하나의 플랫폼에서 처리할 수 있는 통합 교육 관리 시스템(EDU-HUB)** 을 개발하게 되었다.<br>
 EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연결된 퀴즈를 등록하며, 수강생의 학습 현황을 한눈에 관리할 수 있도록 설계되었다. 학생은 수강 승인된 강의의 교안을 열람하고 퀴즈를 풀며, 오답 발생 시 연관 교안으로 즉시 이동해 부족한 부분을 바로 보완할 수 있게 한다.<br><br>
 <br><br><br>
-## 🌟팀원 소개🌟<br>
+## 🌊팀원 소개🌊<br>
 
-### 😆정세영 [@Crispylux](https://github.com/Crispylux) (Leader) - Frontend, Database
+### ⚓정세영 [@Crispylux](https://github.com/Crispylux) (Leader) - Frontend, Database
 - **팀장으로서 Github Organization의 전반적인 관리 및 프로젝트 총괄**<br><br>
 - **React 기반 프론트엔드**
   	- 홈 랜딩 화면 구현
@@ -32,7 +32,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` `Axios` `PostgreSQL(Supabase)`<br><br>
 
-### 😆윤정수 [@jungsu97](https://github.com/jungsu97) - Frontend
+### ⚓윤정수 [@jungsu97](https://github.com/jungsu97) - Frontend
 - **React 기반 프론트엔드**
 	- 학생/교수 메인페이지 UI 설계 및 구현
 	- 교안 조회 및 PDF 뷰어 화면 구현
@@ -43,7 +43,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 **기술 스택**<br>
 `React19` `JavaScript` `CSS` `Vite 8` <br><br>
 
-### 😆최민식 [@Kyriepy](https://github.com/Kyriepy) - Backend
+### ⚓최민식 [@Kyriepy](https://github.com/Kyriepy) - Backend
 **담당 기능**
 - 프로젝트 초기 도메인 엔티티 및 DB 스키마 설계
 - JWT 인증 필터, Refresh Token Rotation 흐름 구현
@@ -61,7 +61,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 `Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)` <br><br>
 
 
-### 😆김지훈 [@hooons0228](https://github.com/hooons0228) - Backend
+### ⚓김지훈 [@hooons0228](https://github.com/hooons0228) - Backend
 **담당 기능**
 - 비밀번호 재설정 기능 구현 (이메일 유효성 검증 → 재설정 메일 발송 → 토큰 검증 → 새 비밀번호 저장 4단계 플로우)
 - Redis 기반 재설정 토큰 관리 및 1분 쿨다운 로직 구현
@@ -73,31 +73,31 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 `Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `JPA / Hibernate` `Redis` `JavaMailSender` `Flyway` `PostgreSQL` `PostgreSQL (Supabase)`
 <br><br><br>
 
-## 🌟기능 소개(영상)🌟<br>
-### 🔥핵심 기능
+## 🌊기능 소개(영상)🌊<br>
+### ⚓핵심 기능
 **[교안/퀴즈 관리, 교안 열람, 퀴즈 열람 및 응시 기능]** <br>
 강사(교수)는 교안/퀴즈를 업로드하고 생성할 수 있다. <br>
 학생과 강사는 교안을 열람할 수 있으며, 학생은 자신에게 접근 권한이 있는 퀴즈를 열람하고 응시할 수 있다. <br><br>
 **[접근 권한 관리]** <br>
 관리자가 관리자 화면에서, 학생의 교안 및 퀴즈의 접근 권한을 관리할 수 있다.<br><br>
 
-### 🔥적용 기술
+### ⚓적용 기술
 ● 프로젝트 관리: `Git`, `Notion`, `Figma(wireframe)`, `Gantt chart`<br>
 ● DB, DB Cloud Server: `Supabase(PostgreSQL)`<br>
 ● FrontEnd: `React`<br>
 ● BackEnd: `Java 21`, `Spring Boot 3`, `Spring Security JWT (jjwt)`, `Kakao OAuth2 /OIDC, JPA / Hibernate`, `ArchUnit`, `JUnit5`, `Mockito`, `Flyway`<br><br>
 
-### 🔥제작과정
+### ⚓제작과정
 폭포수 개발 기법에 애자일 개발 방법을 혼합하여 개발을 진행하였다.<br>
 github organization의 frontend, backend repository를 나누어, issue를 생성해 개발 진행 상황을 공유하였다. <br>
 매주 google meets를 활용한 회의를 통해, 멘토 피드백을 받고, 각자의 개발 진행 상황과 back-front 개발 명세를 맞추었다.<br><br>
 
-### 🔥랜딩 페이지
+### ⚓랜딩 페이지
 <img width="800" height="450" alt="Landingpage" src="https://github.com/user-attachments/assets/28a59565-7d38-4916-beab-f38bfe56e84b" />
 
 <br>
 
-### 🔥사용 흐름
+### ⚓사용 흐름
 
 ### 👉학생(STUDENT) <br>
 **회원가입 및 로그인** : 카카오 소셜 로그인으로 인증한다. 가입 이력이 없을 시 카카오 회원가입을 하게 되고, 최초 1회 닉네임을 설정하게 된다.<br>
@@ -143,28 +143,28 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 
 <br><br><br>
 
-## 🌟로드맵🌟<br>
+## 🌊로드맵🌊<br>
 <img width="1274" height="715" alt="cicd" src="https://github.com/user-attachments/assets/2b2c7f44-238d-45dd-abdf-172cf4d8bfa2" />
 
 
 <br><br><br>
-## 🌟간트 차트🌟<br>
+## 🌊간트 차트🌊<br>
 <img width="3307" height="2339" alt="EDU_HUB_WBS_간트차트_제출용_통일색상-1" src="https://github.com/user-attachments/assets/ad9ee963-9b65-48b3-a71f-88214b5b2f38" />
 
 <br><br>
 
-## 🌟와이어프레임🌟<br>
+## 🌊와이어프레임🌊<br>
 <img width="24039" height="16167" alt="P22CapstoneDesign" src="https://github.com/user-attachments/assets/dc762f58-8d0b-4058-8da7-57e42d755916" />
 
 <br><br><br>
 
-## 🌟ERD🌟<br>
+## 🌊ERD🌊<br>
 <img width="3116" height="1749" alt="CapstoneERD" src="https://github.com/user-attachments/assets/3029669f-a558-428c-859e-54d954fe9a5f" />
 
 <br><br><br>
 
 <br><br><br>
-## 🌟트러블슈팅🌟<br>
+## 🌊트러블슈팅🌊<br>
 **과제 수행과정에서의 문제점 및 시행착오**<br>
 프론트·백엔드 간 API 문서 갱신이 지연되어, 실제 구현과 명세가 어긋나는 연동 오류가 반복적으로 발생했다. 대표적인 사례로, 교안-강의자료 분리 작업 중 lesson_material.lesson_id 컬럼이 DB에 반영되지 않아 교안 생성 API가 500 오류를 반환하는 문제와,  Supabase 연결 풀 포화로 서버 기동 자체가 실패하는 환경 이슈가 발생했다.
 <br><br>
@@ -175,7 +175,7 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 실제 배포 후 교수자·학생의 피드백을 수렴하여 UI 및 편의 기능을 지속적으로 개선한다. 강의 시작·종료 시점에 사전·사후 설문 조사 기능을 추가하여 학습 효과를 정량적으로 측정할 수 있는 기반을 마련한다. 현재 부재한 서비스 레이어 단위 테스트를 보완해 안정적인 CI/CD 환경을 구축하고, 오답 발생 시 관련 교안을 자동 연결하는 기능을 개인화 학습 경로 추천으로 발전시킬 계획이다.
 <br><br><br>
 
-## 🌟기대효과🌟<br>
+## 🌊기대효과🌊<br>
 본 시스템의 도입을 통해 교수자와 학습자 모두에게 실질적인 이점을 제공할 수 있다.<br><br>
 
 첫째, 지식 자산의 체계화 측면에서, 교안·강의자료·문제 은행을 단일 플랫폼에 통합 저장함으로써 기존에 분산되어 관리되던 교육 콘텐츠를 구조화된 형태로 축적할 수 있다. 이를 통해 반복적인 자료 탐색 시간을 절감하고, 우수 콘텐츠의 재사용성을 높일 수 있다.<br>
@@ -185,8 +185,8 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 셋째, 문제-근거 자료의 유기적 연결을 통해 즉각적인 보완 학습 환경을 제공한다. 학생이 문제를 틀렸을 때 관련 교안의 해당 항목으로 바로 연결하여 자기주도적 복습이 가능하도록 하며, 반복 오답 패턴 분석을 통해 맞춤형 학습 경로 추천에도 활용할 수 있다.
 <br><br><br>
 
-## 🌟회고🌟<br>
-### 정세영
+## 🌊회고🌊<br>
+### ⚓정세영
 **Keep — 잘된 것**
 - 현재 학습 플랫폼들을 충분히 조사하고, 교안과 퀴즈가 연결되어 함께 관리되고 학습되기 어렵다는 점을 보완한 플랫폼을 만들자는 프로젝트의 목표를 벗어나지 않고 달성했다
 - 사용자 편의를 고려한 UI/UX를 제공하려 테스트 사용자들의 피드백을 받아 주기적으로 수정을 거쳤다
@@ -204,7 +204,7 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 - 관리자의 강의 수강 신청 승인이나 교수 회원가입 대기 승인 시, 승인이 완료되었다는 메일이 갈 수 있도록 한다
 - 모바일 화면 비율에 맞춰 작동될 수 있게 한다
 <br><br>
-### 윤정수
+### ⚓윤정수
 
 **Keep — 잘된 것**
 - 퀴즈 화면을 기간 내에 잘 완료 하였다
@@ -219,7 +219,7 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 - 컴포넌트 구조를 미리 설계하고 개발하기
 - 초기 기획 단계에서 화면 설계를 더 구체적으로 진행하기
 <br><br>
-### 최민식
+### ⚓최민식
 
 **Keep — 잘된 것**
 - `CLAUDE.md`와 `docs/exec-plans/`를 통한 문서 주도 개발: 설계 → 승인 → 구현 흐름을 지켜 기능 중간에 방향이 흔들리는 일이 거의 없었다
@@ -239,7 +239,7 @@ github organization의 frontend, backend repository를 나누어, issue를 생�
 - 기능 단위 PR에 서비스 테스트를 함께 포함하는 정책을 enforce한다
 - TestContainers로 Redis · PostgreSQL을 격리해 `@SpringBootTest` 풀 통합 테스트를 CI에서 실행한다
 <br><br>
-### 김지훈
+### ⚓김지훈
 
 **Keep — 잘된 것**
 

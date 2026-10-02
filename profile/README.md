@@ -30,7 +30,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 <br><br>
 
 **기술 스택**<br>
-`React19` `JavaScript` `CSS` `Vite 8` `Axios` `PostgreSQL(Supabase)`<br><br>
+`Cursor` `React19` `JavaScript` `CSS` `Vite 8` `Axios` `PostgreSQL(Supabase)`<br><br>
 
 ### ⚓윤정수 [@jungsu97](https://github.com/jungsu97) - Frontend
 - **React 기반 프론트엔드**
@@ -41,7 +41,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 <br><br>
 
 **기술 스택**<br>
-`React19` `JavaScript` `CSS` `Vite 8` <br><br>
+`Cursor` `React19` `JavaScript` `CSS` `Vite 8` <br><br>
 
 ### ⚓최민식 [@Kyriepy](https://github.com/Kyriepy) - Backend
 **담당 기능**
@@ -58,7 +58,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 - 아키텍처 문서화 및 exec-plan 기반 작업 흐름 수립
 
 **기술 스택**  
-`Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)` <br><br>
+`Cursor` `Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `Kakao OAuth2 / OIDC` `JPA / Hibernate` `@SQLDelete + @SQLRestriction` `ArchUnit` `JUnit5` `Mockito` `Flyway` `PostgreSQL (Supabase)` <br><br>
 
 
 ### ⚓김지훈 [@hooons0228](https://github.com/hooons0228) - Backend
@@ -70,7 +70,7 @@ EDU-HUB는 강사가 교안 PDF를 업로드하고, 해당 자료와 직접 연�
 - 최종 프로그램 시연 영상 제작
 
 **기술 스택**  
-`Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `JPA / Hibernate` `Redis` `JavaMailSender` `Flyway` `PostgreSQL` `PostgreSQL (Supabase)`
+`Cursor` `Java 21` `Spring Boot 3` `Spring Security` `JWT (jjwt)` `JPA / Hibernate` `Redis` `JavaMailSender` `Flyway` `PostgreSQL` `PostgreSQL (Supabase)`
 <br><br><br>
 
 ## 🌊기능 소개(영상)🌊<br>

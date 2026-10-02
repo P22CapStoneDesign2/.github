@@ -1,4 +1,4 @@
-# 학습자료 연계형 통합 퀴즈 운영 시스템 구축 (Edu-Quiz Hub)
+# 학습자료 연계형 통합 퀴즈 운영(Edu-Quiz Hub) 시스템 구축
 ## 산학협력 Capstone Project
 <br>
 <img width="1180" height="366" alt="eduhub_logo" src="https://github.com/user-attachments/assets/fcc9b187-1596-47d0-b11b-e25d3642229e" /><br>
